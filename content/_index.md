@@ -1,6 +1,6 @@
 ---
 title: ''
-featured_image: "/images/collective_banner.jpeg"
+featured_image: ''
 description: ''
 
 ---
